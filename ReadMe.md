@@ -1,6 +1,6 @@
 Advance Machine Learning Project: Image Classification for Fruits-360 dataset
 
-Autori: Dario Della Mura - David Doci
+Authors: Dario Della Mura - David Doci
 
  Grazie al progetto di Advance Machine Learning si è potuto apprendere:
  
